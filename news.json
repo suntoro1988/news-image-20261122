@@ -1,0 +1,439 @@
+{
+  "cards": [
+    {
+      "art": "blast",
+      "chip": "3 MISSILES",
+      "headline": "Prosecutors: 3 Russian Kh-101 missiles entered Poland",
+      "label": "Prosecutors",
+      "n": 4,
+      "place": "LUBLIN, POLAND",
+      "source": "Reuters, TBS News",
+      "summary": "The missiles fell on Friday; NATO meets in Brussels on Monday."
+    },
+    {
+      "art": "fire",
+      "chip": "4 KILLED",
+      "headline": "Israeli strikes kill 4 in Gaza on Sunday",
+      "label": "Wafa / Al Jazeera",
+      "n": 5,
+      "place": "GAZA",
+      "source": "Middle East Eye, Al Jazeera",
+      "summary": "Drone strike in Deir al-Balah; shooting in Jabalia."
+    },
+    {
+      "art": "ship",
+      "chip": "SHIP SUNK",
+      "headline": "Sea drones sink Russian corvette off Libya",
+      "label": "REPORTED · CNN",
+      "n": 6,
+      "place": "BENGHAZI, LIBYA",
+      "source": "CNN, Middle East Eye",
+      "summary": "Ukraine's drones hit the Merkury at anchor; Russia silent."
+    },
+    {
+      "art": "vote",
+      "chip": "98.79% TURNOUT",
+      "headline": "Hong Kong polls fill all 723 committee seats",
+      "label": "LegCo statement",
+      "n": 7,
+      "place": "HONG KONG",
+      "source": "China Daily, Dimsum Daily",
+      "summary": "Record turnout in Election Committee subsector polls."
+    },
+    {
+      "art": "stadium",
+      "chip": "4-0 AT ANFIELD",
+      "headline": "Liverpool hammer Man Utd 4-0 in Pochettino debut",
+      "label": "Reuters",
+      "n": 8,
+      "place": "LIVERPOOL, ENGLAND",
+      "source": "Reuters, NBC Sports",
+      "summary": "Ten-man United beaten after an 8th-minute red card."
+    },
+    {
+      "art": "plane",
+      "chip": "1,900+ DELAYED",
+      "headline": "Delta system outage snarls flights before Thanksgiving",
+      "label": "Reuters",
+      "n": 9,
+      "place": "ATLANTA, USA",
+      "source": "Reuters, CNN",
+      "summary": "Weight-and-balance system failure; FAA ground stop lifted."
+    },
+    {
+      "art": "blast",
+      "chip": "EPISODE 57",
+      "headline": "Kilauea eruption begins; alert raised to WATCH",
+      "label": "USGS",
+      "n": 10,
+      "place": "HAWAII, USA",
+      "source": "USGS",
+      "summary": "Lava overflows at the summit; main fountaining due 22–26 Nov."
+    },
+    {
+      "art": "flag",
+      "chip": "MINISTER QUITS",
+      "headline": "South Korea education chief quits over AI exam chaos",
+      "label": "President's office",
+      "n": 11,
+      "place": "SEOUL, SOUTH KOREA",
+      "source": "Reuters, JoongAng Daily",
+      "summary": "111 suspected cheating cases at the CSAT university exam."
+    },
+    {
+      "art": "drones",
+      "chip": "DRONE STRIKES",
+      "headline": "Drone strikes kill children near Khartoum",
+      "label": "REPORTED · tolls differ",
+      "n": 12,
+      "place": "KHARTOUM, SUDAN",
+      "source": "Al Jazeera, Radio Dabanga",
+      "summary": "A UN building is damaged; army blames Ethiopia."
+    },
+    {
+      "art": "rocket",
+      "chip": "RECORD 32 HOURS",
+      "headline": "SpaceX launches spy satellites on record turnaround",
+      "label": "SpaceX",
+      "n": 13,
+      "place": "VANDENBERG, USA",
+      "source": "SpaceX, Spaceflight Now",
+      "summary": "Falcon 9 flies NROL-136 just 32 hours after the last launch."
+    }
+  ],
+  "count": 45,
+  "datecheck": "Wires read to 12:00 UTC, Monday 23 November 2026. Every story here happened, or was first reported, on Sunday 22 November 2026 in some time zone. Left out as other days' news: the Kerch Bridge strikes (17 Nov), the Chapo Isidro capture (20–21 Nov), the Bayelsa boat sinking (20 Nov), the EU–Indonesia trade deal (21 Nov), the ICJ Myanmar ruling (19 Nov) and the FBI database hack (first reported 20 Nov).",
+  "key_numbers": [
+    {
+      "label": "delegations at COP31",
+      "n": "194"
+    },
+    {
+      "label": "House seats for Democrats",
+      "n": "258"
+    },
+    {
+      "label": "Delta flights delayed",
+      "n": "1,900+"
+    },
+    {
+      "label": "Hong Kong poll turnout",
+      "n": "98.8%"
+    },
+    {
+      "label": "Las Vegas GP lead changes",
+      "n": "35"
+    },
+    {
+      "label": "between SpaceX launches",
+      "n": "32 h"
+    }
+  ],
+  "more": [
+    {
+      "n": 14,
+      "source": "Reuters, CNN",
+      "text": "Europe: Russia starts towing drone-hit ship Sparta II from Finnish waters"
+    },
+    {
+      "n": 15,
+      "source": "Reuters, AP",
+      "text": "Football: Barcelona come back 3-2 at Villarreal to stay top of La Liga"
+    },
+    {
+      "n": 16,
+      "source": "Reuters",
+      "text": "Football: Atalanta hold Inter 4-4 in eight-goal Serie A thriller"
+    },
+    {
+      "n": 17,
+      "source": "Bundesliga.com",
+      "text": "Football: Werder Bremen win Nordderby 4-0 over Hamburg"
+    },
+    {
+      "n": 18,
+      "source": "Reuters",
+      "text": "Football: Le Mans stun Marseille 3-2 with stoppage-time winner"
+    },
+    {
+      "n": 19,
+      "source": "Reuters",
+      "text": "Football: Paris FC thrash Angers 4-0 and climb to 2nd in Ligue 1"
+    },
+    {
+      "n": 20,
+      "source": "NBC, Sportradar",
+      "text": "Football: Hull City beat Brighton 2-0 with two stoppage-time goals"
+    },
+    {
+      "n": 21,
+      "source": "Bundesliga.com",
+      "text": "Football: Augsburg beat Mainz 3-1, Gregoritsch scores twice"
+    },
+    {
+      "n": 22,
+      "source": "Reuters, USA Today",
+      "text": "US: Trump says it will be 'very hard' to work with Schumer"
+    },
+    {
+      "n": 23,
+      "source": "Breitbart, Fox News",
+      "text": "US: Trump dares Iran to test Hormuz blockade [REPORTED]"
+    },
+    {
+      "n": 24,
+      "source": "Reuters",
+      "text": "NFL: Lions and Bears both 8-2; Cowboys score 51 on Titans"
+    },
+    {
+      "n": 25,
+      "source": "Reuters, AP",
+      "text": "NFL: 49ers rout Vikings 35-10 in Mexico City"
+    },
+    {
+      "n": 26,
+      "source": "Reuters, Sportradar",
+      "text": "NBA: Murray scores 45 as Nuggets beat Bulls in overtime"
+    },
+    {
+      "n": 27,
+      "source": "Sportradar",
+      "text": "Argentina: River Plate beat Lanus 3-1, into quarter-finals"
+    },
+    {
+      "n": 28,
+      "source": "Sportradar",
+      "text": "Brazil: Athletico-PR beat Remo 4-2 in Brasileirao"
+    },
+    {
+      "n": 29,
+      "source": "Anadolu, MNA",
+      "text": "Middle East: Iran says two supertankers hit mines near Hormuz [REPORTED]"
+    },
+    {
+      "n": 30,
+      "source": "Reuters, CNN",
+      "text": "West Bank: Settlers burn cars and homes; Eisenkot cries 'terrorism'"
+    },
+    {
+      "n": 31,
+      "source": "People Daily",
+      "text": "Africa: Kenya and DR Congo restore full diplomatic ties"
+    },
+    {
+      "n": 32,
+      "source": "MaraviPost",
+      "text": "Zimbabwe: Pastor Uebert Angel arrested at pulpit over sex charges"
+    },
+    {
+      "n": 33,
+      "source": "AFP, Eye Radio",
+      "text": "S. Sudan: Cattle camp toll rises to 24, including 7 children"
+    },
+    {
+      "n": 34,
+      "source": "USGS, MSS",
+      "text": "Indonesia: M5.4 quake in Maluku Sea, no major damage"
+    },
+    {
+      "n": 35,
+      "source": "MARINA, ABS-CBN",
+      "text": "Philippines: OceanJet 168 catches fire off Cebu, 326 rescued"
+    },
+    {
+      "n": 36,
+      "source": "Xinhua, SCMP",
+      "text": "China: Beijing urges US to lift telecom operator ban"
+    },
+    {
+      "n": 37,
+      "source": "Reuters",
+      "text": "India: Bisleri water sample unsafe; checks widen to all brands"
+    },
+    {
+      "n": 38,
+      "source": "Xinhua",
+      "text": "China: Adora Flora City, 2nd home-built cruise ship, sails"
+    },
+    {
+      "n": 39,
+      "source": "FXStreet, Xinhua",
+      "text": "NZ: Retail sales jump 2.2%, biggest rise since 2021"
+    },
+    {
+      "n": 40,
+      "source": "Kyodo, Yomiuri",
+      "text": "Japan: Calls grow for education minister Seki to quit [REPORTED]"
+    },
+    {
+      "n": 41,
+      "source": "Around.pk",
+      "text": "Pakistan: Minister in Beijing for first astronaut send-off [REPORTED]"
+    },
+    {
+      "n": 42,
+      "source": "Reuters, TechCrunch",
+      "text": "Tech: OpenAI chief scientist proposes AI limits tied to perplexity"
+    },
+    {
+      "n": 43,
+      "source": "IPS, Le Monde",
+      "text": "Climate: 90+ nations back COP31 electrification pledge [REPORTED]"
+    },
+    {
+      "n": 44,
+      "source": "MENAFN",
+      "text": "France: Pas-de-Calais floods continue, orange alert stays [REPORTED]"
+    },
+    {
+      "n": 45,
+      "source": "Al Jazeera, Reuters",
+      "text": "Indonesia: Factory fire toll put at 3 dead, 36 missing"
+    }
+  ],
+  "regions": [
+    {
+      "color": [
+        28,
+        52,
+        102
+      ],
+      "count": 11,
+      "name": "Europe"
+    },
+    {
+      "color": [
+        176,
+        30,
+        36
+      ],
+      "count": 4,
+      "name": "Middle East"
+    },
+    {
+      "color": [
+        46,
+        125,
+        62
+      ],
+      "count": 8,
+      "name": "North America"
+    },
+    {
+      "color": [
+        18,
+        110,
+        105
+      ],
+      "count": 2,
+      "name": "Latin America"
+    },
+    {
+      "color": [
+        214,
+        110,
+        28
+      ],
+      "count": 11,
+      "name": "Asia-Pacific"
+    },
+    {
+      "color": [
+        120,
+        90,
+        40
+      ],
+      "count": 5,
+      "name": "Africa"
+    },
+    {
+      "color": [
+        90,
+        60,
+        120
+      ],
+      "count": 4,
+      "name": "World"
+    }
+  ],
+  "sources_line": "Sources: Reuters, BBC, Al Jazeera, AP, CNN, Le Monde, Xinhua, AFP, Formula1.com, FIA, USGS, SpaceX, Bundesliga.com, Sportradar, Middle East Eye, Radio Dabanga, MaraviPost, MARINA, ABS-CBN, Kyodo, China Daily. Every story names its outlet. Pictures and map: original, drawn in code.",
+  "subline": [
+    "COP31 talks collapse with no deal",
+    "Democrats lock 258 House seats",
+    "Verstappen wins the Las Vegas Grand Prix"
+  ],
+  "timeline": [
+    {
+      "h": 1.5,
+      "label": "Sudan strikes"
+    },
+    {
+      "h": 5.5,
+      "label": "F1: Verstappen"
+    },
+    {
+      "h": 12.4,
+      "label": "SpaceX launch"
+    },
+    {
+      "h": 15.0,
+      "label": "COP31 collapses"
+    },
+    {
+      "h": 17.3,
+      "label": "Poland missiles"
+    },
+    {
+      "h": 20.0,
+      "label": "Democrats: 258"
+    },
+    {
+      "h": 22.8,
+      "label": "Merkury sunk"
+    }
+  ],
+  "top": [
+    {
+      "art": "summit",
+      "chip": "COP31: NO DEAL",
+      "chip2": "194 nations",
+      "field": "CLIMATE",
+      "headline": "COP31 climate talks collapse with no deal",
+      "label": "COP president",
+      "lat": 36.9,
+      "lon": 30.7,
+      "n": 1,
+      "place": "ANTALYA, TURKEY",
+      "source": "Reuters, Le Monde",
+      "summary": "EU and others reject the final draft for omitting fossil fuels; the longest climate summit ever ends with no pact."
+    },
+    {
+      "art": "vote",
+      "chip": "HOUSE: 258 SEATS",
+      "chip2": "+44 seats",
+      "field": "POLITICS",
+      "headline": "Democrats lock biggest House majority since 1992",
+      "label": "AP call",
+      "lat": 38.9,
+      "lon": -77.0,
+      "n": 2,
+      "place": "WASHINGTON, USA",
+      "source": "AP, Reuters",
+      "summary": "A North Carolina win seals at least 258 seats; Democrats take Congress in January."
+    },
+    {
+      "art": "stadium",
+      "chip": "F1: VERSTAPPEN WINS",
+      "chip2": "35 lead changes",
+      "field": "FORMULA 1",
+      "headline": "Verstappen wins chaotic Las Vegas Grand Prix",
+      "label": "Formula1.com",
+      "lat": 36.2,
+      "lon": -115.1,
+      "n": 3,
+      "place": "LAS VEGAS, USA",
+      "source": "Formula1.com, FIA",
+      "summary": "Norris and Piastri join him on the podium after late Mercedes drama."
+    }
+  ]
+}
